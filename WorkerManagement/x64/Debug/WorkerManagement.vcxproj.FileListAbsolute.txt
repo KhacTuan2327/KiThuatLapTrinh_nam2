@@ -1,0 +1,2 @@
+C:\Users\Dell service\source\repos\KTLT\x64\Debug\WorkerManagement.exe.lastcodeanalysissucceeded
+C:\Users\Dell service\source\repos\KTLT\WorkerManagement\x64\Debug\NativeCodeAnalysis.read.1.tlog

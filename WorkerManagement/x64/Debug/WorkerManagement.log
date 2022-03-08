@@ -1,0 +1,11 @@
+﻿  bienChe.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Desktop\WorkerManagement\bienChe.cpp': No such file or directory
+  dsNhanVien.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Desktop\WorkerManagement\dsNhanVien.cpp': No such file or directory
+  hopDong.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Desktop\WorkerManagement\hopDong.cpp': No such file or directory
+  main.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Desktop\WorkerManagement\main.cpp': No such file or directory
+  nhanVien.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Desktop\WorkerManagement\nhanVien.cpp': No such file or directory
+  Generating Code...

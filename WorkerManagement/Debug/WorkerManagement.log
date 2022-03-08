@@ -1,0 +1,10 @@
+﻿  bienChe.cpp
+C:\Users\Dell service\Desktop\WorkerManagement\bienChe.cpp(26,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  dsNhanVien.cpp
+C:\Users\Dell service\Desktop\WorkerManagement\dsNhanVien.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+  hopDong.cpp
+  main.cpp
+  nhanVien.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  WorkerManagement.vcxproj -> C:\Users\Dell service\source\repos\KTLT\Debug\WorkerManagement.exe
